@@ -1,4 +1,6 @@
 {
-  "name": "test",
-  "location": "westeurope"
+  "resource_group_name": "my-app-rg",
+  "location": "East US",
+  "vnet_name": "my-app-vnet",
+  "vnet_address_space": ["10.0.0.0/16"]
 }
